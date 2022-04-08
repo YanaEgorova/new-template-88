@@ -45,6 +45,12 @@
     justify-content: center;
     margin-bottom: 2rem;
 }
+.disable-btn {
+    pointer-events: none;
+}
+.disable-btn svg {
+    opacity: 0.3;
+}
 .prod__price, .prod__discount {
     font-size: 3rem;
 }
