@@ -74,7 +74,8 @@
         text-align: left;
     }
     .hero .title {
-        font-size: 11rem;
+        font-size: 8rem;
+        max-width: 70rem;
     }
   
 }

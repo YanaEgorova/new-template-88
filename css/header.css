@@ -67,8 +67,9 @@ body.open-menu {
 }
 .cart__span-box {
     font-size: 2.2rem;
-    display: none;
+    display: flex;
     align-items: center;
+    margin-right: 1rem;
 }
 .cart__span-box svg {
     display: block;
