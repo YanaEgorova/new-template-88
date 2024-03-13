@@ -7,6 +7,7 @@ body {
   min-height: 100vh;
   /* background-image: linear-gradient(to bottom, #83af00, #6b9b01, #548801, #3e7401, #2a6100); */
   background-color: var(--first-brand-color);
+  scroll-behavior: smooth;
 }
 *,
 *::before,
